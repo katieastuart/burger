@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');
+
+li {
+    padding: 5px;
+    margin: 5px;
+    /* background: #faebd7; */
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  html {
+      min-height: 100%;
+  }
+
+  body {
+      background-image: url("../images/ashley-green-540654-unsplash.jpg");
+      background-repeat: no-repeat center bottom;
+      background-size: cover;
+  }
+
+  .container {
+    background: rgba(231, 234, 236, 0.623);
+    margin-top: 100px;
+    padding: 25px;
+    border-radius: 15px 15px 15px 15px;
+    margin-bottom: 100px;
+    overflow-y: scroll !important;
+  }
+
+  .title, .form-check {
+      text-align: center;
+  }
+
+  .title {
+    font-family: 'Bowlby One SC', cursive;
+  }
+
+  .add-burger-form {
+    margin: auto;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: block;
+    font-weight: bold;
+  }
+
+  h1 {
+      font-size: 72px;
+  }
+
+  h2 {
+      font-size: 24px;
+  }
